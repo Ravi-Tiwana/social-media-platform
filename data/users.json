@@ -1,0 +1,10 @@
+[
+  {
+    "email": "example@example.com",
+    "mobile": "1234567890",
+    "password": "$2b$10$Kq8lCBVZqnCNepcPWG9SBOMZYQ8TwYVYPDm37Bhbsn9MgMMi90qX6",
+    "followers": [],
+    "following": [],
+    "role": "registered"
+  }
+]
