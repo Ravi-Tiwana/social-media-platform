@@ -1,10 +1,26 @@
 [
   {
-    "email": "example@example.com",
-    "mobile": "1234567890",
-    "password": "$2b$10$Kq8lCBVZqnCNepcPWG9SBOMZYQ8TwYVYPDm37Bhbsn9MgMMi90qX6",
+    "id": "1",
+    "username": "admin",
+    "email": "admin@example.com",
+    "password": "$2b$10$EIXnzHXNmYF7jr3pBs88IuvglkMgiGvsqFkE9Q1SxjZzC1XsOZ1.e",
+    "role": "admin",
+    "phone_number": "+1234567890",
     "followers": [],
     "following": [],
-    "role": "registered"
+    "activity": [],
+    "posts": []
+  },
+  {
+    "id": "d09d0c23-9d18-4242-a976-5b04daa5ef71",
+    "username": "john_doe",
+    "email": "john.doe@example.com",
+    "password": "$2a$10$vCK8PtmWZojU8R4mTwBtfOuZju5/W7uGsAOtmk0v8k7T8cOdkUOm2",
+    "role": "registered",
+    "phone_number": "+1234567890",
+    "followers": [],
+    "following": [],
+    "activity": [],
+    "posts": []
   }
 ]
